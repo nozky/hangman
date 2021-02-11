@@ -77,6 +77,10 @@ body{
   font-size: var(--font-mid);
 }
 
+.wrapper main .guess-container .txt-word{
+  width: 15ch;
+}
+
 .winner{
   position: absolute;
 
