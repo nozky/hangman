@@ -30,6 +30,7 @@ Other photos credit to myself [https://www.linkedin.com/in/norvillie-villaruel/]
 ---
 ##links
 GH repo: [https://github.com/nozky/hangman](https://github.com/nozky/hangman)
+
 Heroku Live Demo: [https://hangman-hangman.herokuapp.com/](https://hangman-hangman.herokuapp.com/)
 
 ---
