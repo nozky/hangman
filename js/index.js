@@ -65,7 +65,7 @@ const guess = ()=>{
       isFound=true;
     }
     // check game stat
-    console.log(secretWord)
+    // console.log(secretWord) >> hack this to show the secret word in the console
     isWin();
     gameOver();
   })
@@ -118,7 +118,7 @@ const changeImage = ()=>{
 
 // check if winning
 const isWin = ()=>{
-  console.log('checking.. is winning');
+
   let count = 0;
   
   [...secretWord].forEach((el,index) => {
@@ -127,7 +127,6 @@ const isWin = ()=>{
     }
   })
 
-  console.log(count)
   if(count <= 0){
     console.log("Yahooo i won!");
     winner.classList.add('visible');

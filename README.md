@@ -22,7 +22,9 @@ ohh, i need `collaborator `  to give this beautiful app a nice visual. L :) L
 ## Attribution
 
 APi [https://random-word-api.herokuapp.com/all](https://random-word-api.herokuapp.com/all)
+
 picsum [https://picsum.photos/images](https://picsum.photos/images)
+
 Other photos credit to myself [https://www.linkedin.com/in/norvillie-villaruel/](https://www.linkedin.com/in/norvillie-villaruel/)
 
 ---
