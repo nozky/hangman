@@ -60,7 +60,7 @@ const guess = ()=>{
   let isFound = false;
 
   [...secretWord].forEach( (el, index) => {
-    if (el == txtWord.value){
+    if (el == txtWord.value.toLowerCase()){
       changeChar(el,index);
       isFound=true;
     }
